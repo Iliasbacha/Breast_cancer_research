@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 /path/to/project
 │
 ├── Neoadj_base_luminaux - anonymise.xls # Raw dataset
-├── perso_mec_imp.csv # Additional feature dataset
+├── perso_mec_imp.csv # tailored imputed dataset
 ├── data_preprocessing.py # Data processing and feature engineering script
 ├── model_building.py # Machine learning model training and evaluation script
 ├── neural_network.py # Neural network model implementation and training script
